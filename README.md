@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Samuels 👋
+
+Nice to meet you! I recently graduated with a computer science degree from the University of California San Diego in Spring 2022. 
 
 <!--
 **SikYinSun/SikYinSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
