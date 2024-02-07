@@ -1,7 +1,7 @@
  <h1 align="center">Hello, I'm Samuels 👋</h1>
 <h3 align="center">A passionate fullstack developer 📁</h3> <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-SamelsSun-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hei-yuet-lee-2729b4181/)](www.linkedin.com/in/samuels-sun)
+[![Linkedin Badge](https://img.shields.io/badge/-SamelsSun-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuels-sun/)](www.linkedin.com/in/samuels-sun)
 
 <p> Nice to meet you! I recently graduated with a computer science degree from the University of California San Diego in Spring 2022. Currently completing applied A.I solutions development program from George Brown College</p>
 
