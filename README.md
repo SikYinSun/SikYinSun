@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-SamelsSun-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuels-sun/)](https://www.linkedin.com/in/samuels-sun)
 
-<p> Nice to meet you! I graduated with a Bachelor of Computer Science from the University of California, San Diego in the spring of 2022. I have recently completed a post-graduate degree in Applied AI Solutions Development program at George Brown College.</p>
+<p> Nice to meet you! I graduated with a Bachelor of Computer Science from the University of California, San Diego in the spring of 2022. I have completed a post-graduate degree in Applied AI Solutions Development program at George Brown College.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
